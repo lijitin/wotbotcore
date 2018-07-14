@@ -4,7 +4,7 @@ namespace wotBotv1
 {
     internal class Program
     {
-        private static void Main(string[] args)
+        private static void Main()
         {
             Console.WriteLine("Hello World!");
         }
